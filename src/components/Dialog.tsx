@@ -1,10 +1,9 @@
 import {
     Dialog as BasicDialog,
-    DialogTitle,
+    Button,
     DialogContent,
     DialogContentText,
-    DialogActions,
-    Button,
+    DialogTitle,
     Grid,
 } from '@mui/material';
 
